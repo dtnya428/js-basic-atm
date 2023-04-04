@@ -1,0 +1,14 @@
+body {
+    background: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.container {
+    background: lavender;
+    width: min(100% - 30px, 840px);
+    margin-inline: auto;
+    border-radius: 10px;
+}
